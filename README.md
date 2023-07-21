@@ -12,5 +12,12 @@ In this work, we also analyzed the connection between the number of computations
 We then carried out simulations with a schedulable and a non-schedulable task set.
 Finally, we verified the correctness of the schedulable task-set by using the ORIS1 tool.
 
-[relazione SEES.docx](https://github.com/EngAlessandroMaggi/Software-Engineer-for-Embedded-system/files/12134476/relazione.SEES.docx)
+
+Presentation with the team : 
 [Presentation SEES.pptx](https://github.com/EngAlessandroMaggi/Software-Engineer-for-Embedded-system/files/12134474/Presentation.SEES.pptx)
+
+
+[relazione SEES.docx](https://github.com/EngAlessandroMaggi/Software-Engineer-for-Embedded-system/files/12134476/relazione.SEES.docx)
+
+
+
